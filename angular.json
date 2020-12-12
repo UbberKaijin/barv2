@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "barv2Ang"
+    }
+  },
+  "defaultProject": "barv2Ang",
+  "cli": {
+    "analytics": "5702f2dd-622d-467a-b8aa-fd3405a86364"
+  }
 }
